@@ -8,4 +8,5 @@ git is free software distributed under GPL.
 my stupid boss still prefers svn.
 creating a new  branch is quickly.
 creating a new branch is quick and simple.
+new dev.
 
