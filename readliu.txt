@@ -6,4 +6,6 @@ git is free software distributed under GPL.
 4 git has a mutable index called stage.
 5 git tracks changes of  files.
 my stupid boss still prefers svn.
+creating a new  branch is quickly.
+
 
