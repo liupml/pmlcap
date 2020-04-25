@@ -3,3 +3,5 @@ git is free software.
 git is so good.
 git is free software distributed under GPL.
 3 git is lsm.
+4 git has a mutable index called stage.
+
